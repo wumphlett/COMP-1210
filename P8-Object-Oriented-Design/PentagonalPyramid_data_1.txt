@@ -1,0 +1,10 @@
+PentagonalPyramid Test List
+Ex1
+1
+2
+ Ex 2   
+12.3
+25.5
+Ex 3
+123.4  
+900
