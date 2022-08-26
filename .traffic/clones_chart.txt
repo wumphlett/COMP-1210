@@ -19,5 +19,5 @@
     0.33  ┤ │         │
     0.00  ┤ ╰─────────╯
 
-    Chart last updated - Thu Aug 25 08:40:03 2022 UTC
+    Chart last updated - Fri Aug 26 01:04:53 2022 UTC
     
