@@ -4,7 +4,7 @@ Fundamentals of Computing I
 
 ```
 
-    Total Views per Day from 2022-08-14 to 2022-10-09
+    Total Views per Day from 2022-08-14 to 2022-10-10
 
     Repository Views
   225.00  ┼                                       ╭╮
@@ -21,9 +21,9 @@ Fundamentals of Computing I
    60.00  ┤          ││     ╭╮    ╭╮     ╭╮│╰╮ │╰╯ │ ╭╯ ╰╯  │
    45.00  ┤     ╭╮   │╰╮  ╭╮││╭╮ ╭╯│╭╮   │╰╯ │╭╯   ╰╮│      │    ╭╮
    30.00  ┤     ││ ╭╮│ ╰╮ │╰╯╰╯│ │ ╰╯╰──╮│   ╰╯     ╰╯      ╰─╮  ││
-   15.00  ┤   ╭╮││ │╰╯  │╭╯    ╰─╯      ╰╯                    ╰╮╭╯│
-    0.00  ┼───╯╰╯╰─╯    ╰╯                                     ╰╯ ╰
+   15.00  ┤   ╭╮││ │╰╯  │╭╯    ╰─╯      ╰╯                    ╰╮╭╯╰╮
+    0.00  ┼───╯╰╯╰─╯    ╰╯                                     ╰╯  ╰
 
-    Chart last updated - Sun Oct  9 01:10:22 2022 UTC
+    Chart last updated - Mon Oct 10 01:14:42 2022 UTC
     
 ```
